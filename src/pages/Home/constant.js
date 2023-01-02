@@ -66,9 +66,9 @@ export const Sec3 = {
   location: "Magetan, Indonesia",
   email: "ahmadamirudin901@gmail.com",
   phone: "(+62) 821 4314 2419",
-  whatsapp: "https://whatsapp.com",
-  instagram: "https://instagram.com",
-  linkedin: "https://linkedin.com",
+  whatsapp: "https://wa.me/082143142419",
+  instagram: "https://instagram.com/_amirmoklet",
+  linkedin: "https://linkedin.com/in/ahmad-amirudin",
 };
 
 export const Footer = {

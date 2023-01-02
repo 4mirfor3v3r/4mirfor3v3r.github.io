@@ -136,7 +136,7 @@ export function Section3() {
 
         <div className="mt-5 md:mt-10 flex justify-center items-center">
           <a
-            href={Sec3.whatsapp}
+            href={Sec3.instagram}
             target="_blank"
             rel="noreferrer"
             className="bg-white rounded-full w-10 h-10 bg-opacity-50"
@@ -144,7 +144,7 @@ export function Section3() {
             <Instagram className=" text-blue-400 hover:text-blue-500" />
           </a>
           <a
-            href={Sec3.instagram}
+            href={Sec3.whatsapp}
             target="_blank"
             rel="noreferrer"
             className="bg-white rounded-full w-10 h-10 bg-opacity-50 mx-4"

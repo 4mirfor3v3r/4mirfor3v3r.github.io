@@ -7,7 +7,7 @@ export const Nav = {
   // Sementara tidak pakai react-router-dom
   // Karena tipe web nya SINGLE PAGE
   item: [
-    { name: "Blogss", href: "/#" },
+    { name: "Blogs", href: "/#" },
     { name: "Open Source Project", href: "/#" },
     { name: "Experience", href: "/#" },
   ],
@@ -28,28 +28,28 @@ export const Sec2 = {
   // Max 4, Jika lebih tidak akan tampil
   content: [
     {
-      image: IMAGES.Square,
-      name: "Project kegabutan Hello world!",
-      desc: "Lorem ipsum dolor sit amet, consectetur",
-      date: "10/01/2021",
+      image: IMAGES.pytorch,
+      name: "LeNet Implementation in Tensorflow",
+      desc: "Reproduce LeNet Architecture Using Tensorflow with Mnist Dataset",
+      date: "12/21/2022",
     },
     {
-      image: IMAGES.Square,
-      name: "Project kegabutan Hello world!",
-      desc: "Lorem ipsum dolor sit amet, consectetur",
-      date: "10/01/2021",
+      image: IMAGES.jupyter,
+      name: "Mouse Tracking Using Mediapipe",
+      desc: "Computer Vision Project to track mouse using Hands with mediapipe",
+      date: "11/28/2022",
     },
     {
-      image: IMAGES.Square,
-      name: "Project kegabutan Hello world!",
-      desc: "Lorem ipsum dolor sit amet, consectetur",
-      date: "10/01/2021",
+      image: IMAGES.hackerrank,
+      name: "Problem Solving Basic Cerificate",
+      desc: "Complete Hackerrank problem solving basic certification using python",
+      date: "11/28/2022",
     },
     {
-      image: IMAGES.Square,
-      name: "Project kegabutan Hello world!",
-      desc: "Lorem ipsum dolor sit amet, consectetur",
-      date: "10/01/2021",
+      image: IMAGES.android,
+      name: "Project Android Pendekar Baraya",
+      desc: "Develop Pendekar Baraya android application using kotlin, google maps, and HERE api",
+      date: "11/19/2022",
     },
   ],
 };
